@@ -22,6 +22,7 @@
 			<td colspan = "2" align = "right">
 				<input type = "submit" value = "글 작성">
 			</td>
+		</tr>
 	</table>
 </body>
 </html>
